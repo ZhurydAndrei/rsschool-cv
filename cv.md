@@ -1,4 +1,4 @@
-##Andrey Zhurid
+## Andrey Zhurid
 Junior frontend developer  
 Nebesnaya st. 4-49 v.Kopische  
 +375(29)341-31-79  
