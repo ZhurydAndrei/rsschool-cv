@@ -1,2 +1,1 @@
-# rsschool-cv
-rsschool-cv
+https://zhurydandrei.github.io/rsschool-cv/cv
