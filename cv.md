@@ -1,4 +1,5 @@
-##Andrey Zhurid
+![Zhuryd Andrei](zhuryd.jpg)
+##Andrey Zhurid  
 
 ####Junior frontend developer
 
@@ -46,3 +47,5 @@ Part 2: Javascript, React, Node.js
 * Windows administrator level, installing network equipment  
 * TCP/IP; software setting, maintenance and testing  
 * English - good pre-intermediate.  
+
+
