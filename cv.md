@@ -31,7 +31,7 @@ Faculty of telecommunications.
 Metrological support of information systems and networks.  
 2007-2012 engineer-metrologist
 
-###COURSES
+### COURSES
 * International House - English courses. 09.2017-01.2018  
 * MyFreedom: - frontend development:  
   * Part 1: HTML, CSS, JS bases. - frontend development.  
