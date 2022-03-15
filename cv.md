@@ -5,7 +5,7 @@
 
 Nebesnaya str.4-49 v.Kopische  
 +375-29-341-31-79  
-zhurid.Andrei@gmail.com
+zhuryd.andrei@gmail.com
 
 
 [LinkedIn](https://www.linkedin.com/in/andreizhuryd-b552b9155/)  
